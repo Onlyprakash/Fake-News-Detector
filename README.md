@@ -84,11 +84,17 @@ No coding knowledge is required to use the application.
 
 ---
 
+# 👤 AUTHOR :-
+
+Prakash Kumar (Onlyprakash)  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/031ef7b6-e6d7-41f6-a3d7-39c63c25c02a" />  GitHub Profile :-  👉  https://github.com/Onlyprakash
+
+<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/4430fa0f-e96d-41c7-8d62-24486856cd4e" /> Linkedin Profile :- 👉https://www.linkedin.com/in/prakash-kumar-80a10a300
+
 ## 🚀 How to Run the Project
 
 ### Step 1: Install dependencies
 ```bash
 pip install -r requirements.txt
 
-##<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/4430fa0f-e96d-41c7-8d62-24486856cd4e" /> Linkedin Profile :- 👉https://www.linkedin.com/in/prakash-kumar-80a10a300
+
 
